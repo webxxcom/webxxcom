@@ -1,6 +1,2 @@
-Welcome to My GitHub Profile
-I'm a developer with experience in various programming languages and tools. I focus on solving complex problems with efficient code, and I'm always looking to improve my skills through hands-on work and projects.
-
-- I focus on optimizing algorithms, ensuring code clarity, and following best practices in both C++ and Java.
-- I’m constantly learning new programming concepts
-- Enjoy diving deep into technical topics like computer architecture and advanced data structures.
+Hi. I'm Unity developer focused on writing games such as 2D rogue like, AAA, platformers etc.
+In my code I usually focus on proper understanding of written components and following single-reaponsibility principles. I use AI to provide me with research on specific topics and then make my own implementations enhancing my skills rather than entirely relying on the agent.
