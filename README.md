@@ -1,2 +1,2 @@
 Hi. I'm Unity developer focused on writing games such as 2D rogue like, AAA, platformers etc.
-In my code I usually focus on proper understanding of written components and following single-reaponsibility principles. I use AI to provide me with research on specific topics and then make my own implementations enhancing my skills rather than entirely relying on the agent.
+In my code I usually focus on proper understanding of written components and following single-responsibility principles. I use AI to provide me with research on specific topics and then make my own implementations enhancing my skills rather than entirely relying on the agent.
